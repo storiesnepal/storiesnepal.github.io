@@ -36,9 +36,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Binod Aryal
+  name: People Places and Stories - Nepal
   avatar: bio-photo.jpg
-  email: binodaryal21@gmail.com
+  email:  peopleplacesstoriesnepal@gmail.com
   disqus-shortname:
   twitter: #username
   youtube: UCmNgAwiL0OOxHQkJ4Jy_MaA
