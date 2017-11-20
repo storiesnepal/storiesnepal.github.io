@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: People
+  url: /people/
+
+- title: Places
+  url: /places/
+
+- title: Stories
+  url: /stories/
+
+- title: About
+  url: /about/
+
+- title: Search
+  url: /search/
