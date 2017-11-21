@@ -5,7 +5,7 @@ locale: en_US
 description: People to meet, Places to go and Stories to listen from Nepal.
 logo: site-logo.png
 search: true
-url: http://storiesnepal.com/
+url: http://storiesnepal.com
 
 # Jekyll configuration
 
@@ -39,7 +39,7 @@ owner:
   name: People Places and Stories - Nepal
   avatar: bio-photo.jpg
   email:  peopleplacesstoriesnepal@gmail.com
-  disqus-shortname:
+  disqus-shortname: Binod Aryalcs
   twitter: #username
   youtube: UCmNgAwiL0OOxHQkJ4Jy_MaA
   facebook: PeoplePlacesandStoriesNepal
