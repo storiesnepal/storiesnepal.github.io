@@ -5,6 +5,9 @@ modified:
 categories: stories
 excerpt: " How was cannabis made illegal in Nepal"
 tags: [cannabis, weed, Nepal, Kathmandu, hashish]
+author: billy_rick
+comments: true
+share: true
 image:
   feature:
 date: 2017-11-21
@@ -43,7 +46,7 @@ What could be the reason to illegalize the production and sells of cannabis whic
 * Huge amount of hashish was smuggled to the USA
 * Cannabis effect the profits to be made from the legal and illegal use of opiates. (It is said that this is also the reason why USA has kept cannabis illegal at the federal level, though cannabis has been legal at some of its states)
 
-In 1973, Nepal canceled the licenses of all cannabis shops, dealers, and farmers, under pressure from the United States and the international community. Nepalese authorities began making arrest of growers, dealers and even buyers. The Freak Street dealers were deported and tourists were issued with regulation on dress and appearances, leading to the decline of the hoppy community and an eventual total ban on cannabis.
+In 1973, Nepal canceled the licenses of all cannabis shops, dealers, and farmers, under pressure from the United States and the international community. Nepalese authorities began making arrest of growers, dealers and even buyers. The Freak Street dealers were deported and tourists were issued with regulation on dress and appearances, leading to the decline of the hippy community and an eventual total ban on cannabis.
 
 It is also said that late King Birendra was offered 40$ million to make cannabis illegal from US government, while USA helping Nepal on its development program with the financial and technical assistance.
 
