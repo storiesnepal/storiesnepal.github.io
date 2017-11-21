@@ -5,7 +5,7 @@ modified:
 categories: stories
 excerpt: " How was cannabis made illegal in Nepal"
 tags: [cannabis, weed, Nepal, Kathmandu, hashish]
-author: billy_rick
+author: binod_aryal
 comments: true
 share: true
 image:
